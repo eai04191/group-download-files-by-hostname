@@ -6,11 +6,9 @@
 
 Chrome extension to grouping download files by hostname.
 
-Do you like to organize your download folders? I've noticed that the Downloads folder on my machine is constantly cluttered with files.
+Is your Downloads folder always a mess? I was tired of constantly cleaning up after files piled up. With this extension, Chrome automatically organizes your downloads into folders based on their referrer domain.
 
-After installing this extension, when chrome downloads files, they are automatically grouped by the referrer domain.
-
-This extension does just that. Simple and efficient. No configuration.
+It's a simple, efficient solution—no configuration required.
 
 ## Notice for Firefox
 
