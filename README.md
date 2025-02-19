@@ -14,6 +14,8 @@ It's a simple, efficient solution—no configuration required.
 
 Currently, Firefox does not support the `downloads.onDeterminingFilename` API. So this extension does not work on Firefox.
 
+https://bugzilla.mozilla.org/show_bug.cgi?id=1245652
+
 ## License
 
 MIT
